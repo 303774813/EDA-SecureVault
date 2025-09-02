@@ -1,27 +1,3 @@
-# EDA-SecureVault Support
-
-Welcome to the support page for EDA SecureVault, a simple and secure encryption tool for macOS.
-
-## FAQ
-
-### How do I create my first vault?
-1. Launch the app...
-2. Click...
-
-### Where are my files stored?
-All files are encrypted **locally on your device**...
-
-## Privacy
-We take your privacy seriously. EDA SecureVault processes all data on your device and does not collect any personal information.
-
-## Contact Support
-If you cannot find the answer to your question here, please contact us at: **wangchao1abc@163.com**
-
-## Download
-Get the app on the [Mac App Store](https://apps.apple.com/cn/app/eda-securevault/id6446857256).
-support:wangchao1abc@163.com
-
-
 # EDA SecureVault - Local Encrypted Storage
 
 **EDA SecureVault** is a powerful and intuitive macOS application designed for local file encryption. It employs military-grade AES-256 encryption to ensure the absolute privacy of your photos, videos, audio, and documents. All data is processed locally on your device and is never uploaded to any server.
