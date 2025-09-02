@@ -2,7 +2,7 @@
 
 **EDA SecureVault** is a powerful and intuitive macOS application designed for local file encryption. It employs military-grade AES-256 encryption to ensure the absolute privacy of your photos, videos, audio, and documents. All data is processed locally on your device and is never uploaded to any server.
 
-[![Download on the Mac App Store](https://apps.apple.com/cn/app/eda-securevault/id6446857256)]($YOUR_MAS_LINK)
+[![Download on the Mac App Store](https://github.com/303774813/EDA-SecureVault/blob/main/logo.png)]($[YOUR_MAS_LINK](https://apps.apple.com/cn/app/eda-securevault/id6446857256))
 
 ---
 
